@@ -18,8 +18,8 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class Transposition {
 
-	public static final String SAMPLE_XLSX_FILE_PATH = "./src/main/resources/sample-xlsx-file.xlsx";
-	public static final String SAMPLE_SHEET_NAME = "Employee";
+	public static final String SAMPLE_XLSX_FILE_PATH = "D:\\Utilisateurs\\v-97341M\\Mes documents\\Mes fichiers reçus\\20170724.xlsm";
+	public static final String SAMPLE_SHEET_NAME = "Profil";
 
 	public Transposition() {
 
